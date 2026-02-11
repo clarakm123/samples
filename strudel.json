@@ -1,6 +1,5 @@
 {"_base":"https://raw.githubusercontent.com/clarakm123/samples/main/",
-  "spacey": "707900_kevp888_cd_contact_ 010fx_black_star_radiations.wav",
-"background": "98945_tomlija_lounge-bar.wav",
-"synth": "14838_randominsults_hisynth.wav",
-"arp": "362323_sss_samples_simple-arp-140-bpm.wav"
-}
+  "spacey": ["707900_kevp888_cd_contact_ 010fx_black_star_radiations.wav",
+"98945_tomlija_lounge-bar.wav",
+"14838_randominsults_hisynth.wav",
+"362323_sss_samples_simple-arp-140-bpm.wav"]}
